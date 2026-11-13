@@ -1,0 +1,1 @@
+import{_ as s,o as i,c as e,a2 as t}from"./chunks/framework.DW1JcZt2.js";const c=JSON.parse('{"title":"World API SDK","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),n={name:"index.md"};function h(r,a,l,p,o,d){return i(),e("div",null,[...a[0]||(a[0]=[t("",9)])])}const g=s(n,[["render",h]]);export{c as __pageData,g as default};
